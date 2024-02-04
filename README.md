@@ -6,7 +6,7 @@
 https://ulku.ikizoglu.com/portfolyo/simple-draganddrop/
 
 
-![]()
+![](https://github.com/ulkuhos/simple-draganddrop-javascript/blob/main/img/simpledraganddrop.gif)
 ---
-![]()
+![](https://github.com/ulkuhos/simple-draganddrop-javascript/blob/main/img/simpledraganddropimage.jpg)
 ---
